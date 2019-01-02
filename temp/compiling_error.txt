@@ -1,0 +1,5 @@
+C:\SystemProgrammingLab\temp\test2.c: In function 'powerFunction':
+C:\SystemProgrammingLab\temp\test2.c:34:2: error: 'for' loop initial declarations are only allowed in C99 mode
+C:\SystemProgrammingLab\temp\test2.c:34:2: note: use option -std=c99 or -std=gnu99 to compile your code
+C:\SystemProgrammingLab\temp\test2.c: In function 'binPowerFunction':
+C:\SystemProgrammingLab\temp\test2.c:45:2: error: 'for' loop initial declarations are only allowed in C99 mode

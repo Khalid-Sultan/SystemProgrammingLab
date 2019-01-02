@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/media/khalidsultan/2E06BB4D06BB14B5/SystemProgrammingLab/SystemProgrammingLab.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/media/khalidsultan/2E06BB4D06BB14B5/SystemProgrammingLab/SystemProgrammingLab.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/media/khalidsultan/2E06BB4D06BB14B5/SystemProgrammingLab/temp/test2.c" Name="FileName"/>
+      <int Value="74" Name="FirstVisibleLine"/>
+      <int Value="102" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/media/khalidsultan/2E06BB4D06BB14B5/SystemProgrammingLab/temp/test.c" Name="FileName"/>
+      <int Value="60" Name="FirstVisibleLine"/>
+      <int Value="71" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
